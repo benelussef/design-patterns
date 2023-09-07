@@ -13,6 +13,7 @@
 2- Prototype design pattern:
 
 The Prototype design pattern is a creational pattern in software development that allows you to create new objects by copying an existing object, known as the "prototype". This pattern is useful when the cost of creating an object from scratch is high, and you have an existing object that is similar to what you need
+
 Example: for example in drawing applications the prototype pattern is very used (Ex: make a copy to a rectangle)
 ![prototype - Page 1](https://github.com/benelussef/design-patterns/assets/89108919/621861d4-2de1-437c-8578-3f574a2d8540)
 
