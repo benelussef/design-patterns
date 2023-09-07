@@ -8,6 +8,6 @@ public class Redmi implements Mobile{
     }
     @Override
     public void brandMobile() {
-        System.out.println("Redmi");
+        System.out.println("Redmi ");
     }
 }
