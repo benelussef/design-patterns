@@ -26,3 +26,11 @@ Example: for example in drawing applications the prototype pattern is very used 
 
 ![prototype - Page 1](https://github.com/benelussef/design-patterns/assets/89108919/621861d4-2de1-437c-8578-3f574a2d8540)
 
+4- Singleton design pattern:
+
+The Singleton design pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. This means that no matter how many times you request an instance of the class, you will always get the same instance.
+
+![Brainstorming and Ideation(1)](https://github.com/benelussef/design-patterns/assets/89108919/d8d14a13-5b17-466d-828d-7905a52041e2)
+
+
+
