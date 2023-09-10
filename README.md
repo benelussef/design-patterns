@@ -32,5 +32,7 @@ The Singleton design pattern is a creational design pattern that ensures a class
 
 ![Brainstorming and Ideation(1)](https://github.com/benelussef/design-patterns/assets/89108919/d8d14a13-5b17-466d-828d-7905a52041e2)
 
+5- Builder design pattern:
 
+The Builder design pattern is used when you need to construct complex objects with many optional components or configurations. It provides a clear and flexible way to build these objects step by step, allowing for different variations in the final product. This pattern is helpful in scenarios like generating reports, constructing database queries, creating documents with various elements, configuring products, and more.
 
